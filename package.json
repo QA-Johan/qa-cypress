@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "dependencies": {
+    "cypress": "^12.17.3",
+    "cypress-image-diff-js": "^1.26.0"
+  }
+}
